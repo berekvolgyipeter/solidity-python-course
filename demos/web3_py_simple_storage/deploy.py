@@ -2,6 +2,7 @@ import json
 from solcx import compile_standard
 
 # call this at the first run to install solc
+# import solcx
 # solcx.install_solc("0.6.0")
 
 
